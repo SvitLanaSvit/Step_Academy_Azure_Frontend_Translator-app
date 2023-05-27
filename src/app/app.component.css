@@ -1,0 +1,8 @@
+h2, h3{
+  text-align: center;
+}
+
+#textareaToTranslate, #textareaTranslated{
+  height: 200px;
+  resize: none;
+}
