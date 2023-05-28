@@ -1,3 +1,6 @@
+## Photo of site
+![photo_site](https://github.com/SvitLanaSvit/Step_Academy_Azure_Frontend_Translator-app/blob/master/photo_site.jpg)
+
 # TranslatorApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
